@@ -1,3 +1,3 @@
 # SB
 sweater
-Простое CRUD приложение с использованием PostgreSQL
+Simple CRUD app 
